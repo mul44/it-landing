@@ -1,5 +1,5 @@
 build
-nodu_modules
+node_modules
 npm-debug.log
 Thumbs.db
 Desktop.ini

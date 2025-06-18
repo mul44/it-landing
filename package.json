@@ -1,0 +1,26 @@
+{
+  "name": "land_001",
+  "version": "1.0.0",
+  "description": "this is landing",
+  "homepage": "https://github.com/mul44/it-landing#readme",
+  "bugs": {
+    "url": "https://github.com/mul44/it-landing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mul44/it-landing.git"
+  },
+  "license": "ISC",
+  "author": "Olex Ko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "gulp": "^5.0.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^6.0.1"
+  }
+}

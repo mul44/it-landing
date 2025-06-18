@@ -10,5 +10,5 @@ gulp.task('server', function() {
         }
     });
 
-    gulp.watch('build/**/*')
+    gulp.watch('build/**/*'),on('change', browserSync.reload);
 });
